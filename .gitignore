@@ -24,4 +24,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-./lamaran_kerja
+/lamaran_kerja/*
+
